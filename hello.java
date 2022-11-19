@@ -3,7 +3,7 @@ public class hello{
 	{
 		for(int i=1;i<=10;i++)
 		{
-			System.out.println("nnot hello world..."+i);
+			System.out.println("nnnot hello world..."+i);
 		}
 	}
 

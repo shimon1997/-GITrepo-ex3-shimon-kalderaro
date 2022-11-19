@@ -3,7 +3,7 @@ public class shimon_kalderaro{
 	{
 		for(int i=1;i<=10;i++)
 		{
-			System.out.println("shimon_kalderaroooo..."+i);
+			System.out.println("shimon_kalderaro..."+i);
 		}
 	}
 

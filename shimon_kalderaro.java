@@ -3,7 +3,7 @@ public class shimon_kalderaro{
 	{
 		for(int i=1;i<=10;i++)
 		{
-			System.out.println("nnnot shimon_kalderaro..."+i);
+			System.out.println("nnnnot shimon_kalderaro..."+i);
 		}
 	}
 
